@@ -140,4 +140,5 @@ g <- g + labs(x = "Time Intervals", y = "Average Steps", title = "Difference Bet
 print(g)
 ```
 
-![Lineplot 2](instructions_fig/lineplot2.png
+![Lineplot 2](instructions_fig/lineplot2.png)
+
