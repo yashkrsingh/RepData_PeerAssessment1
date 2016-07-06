@@ -24,7 +24,7 @@ g <- g + labs(x = "Number of steps", y = "Frequency", title = "Number of Steps T
 print(g)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![Histogram 1](instructions_fig/histogram1.png)
 
 Mean and Median of the total number of steps taken per day
 
@@ -51,7 +51,7 @@ g <- g + labs(x = "Time Intervals", y = "Average Steps", title = "Average Number
 print(g)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![Lineplot 1](instructions_fig/lineplot1.png)
 
 Among this average across all days, the interval containing maximum number of steps can be found by
 
@@ -106,7 +106,7 @@ g <- g + labs(x = "Number of steps", y = "Frequency", title = "Number of Steps T
 print(g)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![Histogram 2](instructions_fig/histogram2.png)
 
 Mean and Median of the total number of steps taken per day
 
@@ -140,4 +140,4 @@ g <- g + labs(x = "Time Intervals", y = "Average Steps", title = "Difference Bet
 print(g)
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+![Lineplot 2](instructions_fig/lineplot2.png
